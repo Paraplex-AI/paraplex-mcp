@@ -1,0 +1,37 @@
+{
+  "name": "paraplex-mcp",
+  "version": "0.2.0",
+  "mcpName": "io.github.Paraplex-AI/paraplex-mcp",
+  "description": "Connect Claude Code (or any MCP client) to the Paraplex tab you have open: build and edit 3D motion design scenes with the assistant's tools, look at frames, export.",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "claude-code",
+    "paraplex",
+    "motion design",
+    "3d",
+    "animation"
+  ],
+  "homepage": "https://paraplex.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paraplex-AI/paraplex-mcp.git"
+  },
+  "license": "MIT",
+  "author": "Paraplex Digital, LLC <info@paraplex.ai>",
+  "type": "module",
+  "bin": {
+    "paraplex-mcp": "bin.mjs"
+  },
+  "files": [
+    "bin.mjs",
+    "lib/",
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
