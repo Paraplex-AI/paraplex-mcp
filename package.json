@@ -1,7 +1,7 @@
 {
   "name": "paraplex-mcp",
-  "version": "0.2.0",
-  "mcpName": "io.github.Paraplex-AI/paraplex-mcp",
+  "version": "0.2.1",
+  "mcpName": "ai.paraplex/paraplex-mcp",
   "description": "Connect Claude Code (or any MCP client) to the Paraplex tab you have open: build and edit 3D motion design scenes with the assistant's tools, look at frames, export.",
   "keywords": [
     "mcp",

@@ -1,17 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.Paraplex-AI/paraplex-mcp",
+  "name": "ai.paraplex/paraplex-mcp",
   "description": "Build and edit 3D motion design scenes in your open Paraplex tab, look at frames, and export.",
   "repository": {
     "url": "https://github.com/Paraplex-AI/paraplex-mcp",
     "source": "github"
   },
-  "version": "0.2.0",
+  "version": "0.2.1",
   "packages": [
     {
       "registryType": "npm",
       "identifier": "paraplex-mcp",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "transport": {
         "type": "stdio"
       }
